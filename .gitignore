@@ -1,6 +1,7 @@
 *.html                                                                                                                             
 # GitBook
 node_modules/
+_book
 
 # macOS
 .DS_Store
