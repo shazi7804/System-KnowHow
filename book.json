@@ -1,0 +1,17 @@
+{                                                                                                                                  
+  "title": "系統工程師必備的職場 KnowHow",
+  "description": "不管你是 MIS、SI、SE、DevOps 工程師，只要是維運相關的工作都希望能夠藉由本書給予你一點幫助。",
+  "language": "zh-tw",
+  "plugins": [
+    "disqus",
+    "github"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "system-knowhow"
+    },
+    "github": {
+      "url": "https://github.com/shazi7804/System-KnowHow"
+    }
+  }
+}
