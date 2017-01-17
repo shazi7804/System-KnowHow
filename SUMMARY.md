@@ -1,5 +1,5 @@
 # Summary
 
 * [README](README.md)
-* [System Manage Policy](intro.md)
+* [伺服器管理規範](intro.md)
 
