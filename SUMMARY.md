@@ -11,6 +11,7 @@
     * [備份](server/backup.md)
 * [專案管理規範](project/README.md)
     * [怎麼開始專案](project/怎麼開始專案.md)
+* [文件](project/README.md)
 * [冷知識](trivia/README.md)
     * [千萬別亂用的 Ctrl + C\/V](trivia/01.ctrlv.md)
 
