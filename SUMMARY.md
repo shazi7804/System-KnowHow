@@ -9,6 +9,6 @@
 	* [安全](server/security.md)
 	* [權限](server/permission.md)
 	* [備份](server/backup.md)
-* [專案管理](project/README.md)
+* [專案管理規範](project/README.md)
 * [冷知識](trivia/README.md)
 	* [千萬別亂用的 Ctrl + C/V](trivia/01.ctrlv.md)
