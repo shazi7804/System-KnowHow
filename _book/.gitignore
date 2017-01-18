@@ -1,0 +1,8 @@
+*.html
+
+# Gitbook
+_book/
+node_module/
+
+# MacOS
+.DS_Store
