@@ -24,7 +24,7 @@
 
 ### Content Access
 
-檔案寫入的部份通常另外處理，避免和 Web 相同伺服器，由 Content Server 擔任寫入點，一樣使用特別 User 寫入，最多給予 600 的權限
+檔案寫入的部份通常另外處理，避免和 Web 相同伺服器，由 Content Server 擔任寫入點，一樣使用特別 User 寫入，最多給予 `600` 的權限。
 
 
 
