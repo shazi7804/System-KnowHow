@@ -13,7 +13,7 @@
 
 
 
-
+### 參考資料
 
 [^1]: [Mobile01 - 現在SSD硬碟可以拿來跑資料庫嗎?][mobile01-ssdb]
 [^2]: 維基百科 - 軟體版本號通常訂定規則為：major.minor(.build)，major 是最大的版本編號，minor 為其次，某些軟體可能再細分作 build，為更小的版本編號。
